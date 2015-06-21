@@ -1,5 +1,5 @@
 library(shiny)
-# Define UI for application that draws a histogram
+
 shinyUI(fluidPage(
   titlePanel("Miles per gallon consumption City/Highway"),
   sidebarLayout(
